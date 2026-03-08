@@ -462,6 +462,7 @@ if st.button("💘 궁합 확인하기", use_container_width=True):
 
 
 st.markdown(
-    '<div class="small-note">※ 이 앱은 재미용 MBTI 궁합 테스트입니다.</div>',
+    '<div class="small-note">※ 이 앱은 재미용 MBTI 궁합 테스트입니다.</div>'
+    '<div class="small-note">Made by Jieun Son</div>',
     unsafe_allow_html=True
 )
