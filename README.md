@@ -2,3 +2,4 @@
 
 ## Python + Streamlit + 기타 사용
 
+### 🔗 https://mbti-gunghab.streamlit.app
